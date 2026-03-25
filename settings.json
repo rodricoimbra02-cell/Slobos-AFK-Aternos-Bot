@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CMBND-VVanilla.aternos.me",
+    "ip": "CMBND-VVanilla.aternos.me:46048",
     "port": 46048,
     "version": "",
     "try-creative": true
